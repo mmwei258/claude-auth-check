@@ -72,3 +72,7 @@ python check_claude.py https://your-relay.com sk-xxx
 ## 推荐服务
 
 需要靠谱的 Claude API 中转？试试 [modelsubapi.top](https://modelsubapi.top) — 国内直连、人民币支付、注册送 $10。
+
+## 相关文章
+
+- [Claude Code 国内环境安装配置保姆级教程 — CSDN](https://blog.csdn.net/weixin_42378306/article/details/161402900)
