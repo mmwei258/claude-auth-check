@@ -1,5 +1,9 @@
 # Claude API Authenticity Checker
 
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/mmwei258/claude-auth-check)](https://github.com/mmwei258/claude-auth-check)
+
 一行命令检测 API 中转站返回的是不是真 Claude 模型。
 
 ## 为什么需要这个工具
